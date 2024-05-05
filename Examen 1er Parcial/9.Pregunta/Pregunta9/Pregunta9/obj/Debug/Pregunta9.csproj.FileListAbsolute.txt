@@ -1,0 +1,13 @@
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\bin\Debug\Pregunta9.exe.config
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\bin\Debug\Pregunta9.exe
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\bin\Debug\Pregunta9.pdb
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.csprojResolveAssemblyReference.cache
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.Properties.Resources.resources
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.csproj.GenerateResource.Cache
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.exe
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.pdb
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.menu.resources
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.obtener.resources
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.agregar.resources
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.modificar.resources
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta9\Pregunta9\obj\Debug\Pregunta9.eliminar.resources
