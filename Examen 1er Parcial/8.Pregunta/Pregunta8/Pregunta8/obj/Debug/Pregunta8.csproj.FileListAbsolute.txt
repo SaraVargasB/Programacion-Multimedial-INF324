@@ -1,0 +1,7 @@
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\bin\Pregunta8.dll
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\bin\Pregunta8.pdb
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\obj\Debug\Pregunta8.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\obj\Debug\Pregunta8.dll
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\obj\Debug\Pregunta8.pdb
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\obj\Debug\Pregunta8.WebService1.resources
+C:\Users\Sara\Documents\Visual Studio 2012\Projects\Pregunta8\Pregunta8\obj\Debug\Pregunta8.csproj.GenerateResource.Cache
