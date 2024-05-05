@@ -1,4 +1,6 @@
-Examen 1er Parcial (Practico)
+Examen 1er Parcial (Practico): 
+![desarrollo-web-3](https://github.com/SaraVargasB/Programacion-Multimedial-INF324/assets/167654454/22f98683-6f66-4265-839b-67db032bb90b)
+
 Se deberá crear una BD de datos que responda al nombre de su persona (ej. BDMoises); en la misma deberá considerar la relación Persona, cuenta bancaria, asi como de transacciones bancarias. A partir de ello debe generar lo siguiente:
 
 1. Realice un maquetado, con CSS y PHP. Donde muestre al menos tres tipos de cuentas bancarias.
