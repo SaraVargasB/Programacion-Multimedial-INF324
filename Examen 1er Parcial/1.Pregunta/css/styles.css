@@ -1,0 +1,67 @@
+/* Univ. Sara Abigail Vargas Blanco*/
+body {
+    font-family: 'Georgia', sans-serif;
+    background-color: #f2f7f2; 
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #3f9e3f; 
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.title {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #fff; 
+}
+
+.subtitle {
+    margin-top: 30px;
+    font-size: 20px;
+    color: #3f9e3f; 
+}
+
+.account-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.account {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.account h3 {
+    margin-top: 0;
+    color: #3f9e3f; 
+}
+
+.no-accounts {
+    text-align: center;
+    color: #3f9e3f; 
+}
+
+.footer {
+    background-color: #3f9e3f; 
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
