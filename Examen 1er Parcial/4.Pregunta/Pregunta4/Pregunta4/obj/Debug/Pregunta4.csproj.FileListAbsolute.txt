@@ -1,0 +1,17 @@
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\bin\Debug\Pregunta4.exe.config
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\obj\Debug\Pregunta4.Form1.resources
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\obj\Debug\Pregunta4.Properties.Resources.resources
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\obj\Debug\Pregunta4.csproj.GenerateResource.Cache
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\bin\Debug\Pregunta4.exe
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\bin\Debug\Pregunta4.pdb
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\obj\Debug\Pregunta4.exe
+c:\users\sara\documents\visual studio 2012\Projects\Pregunta4\Pregunta4\obj\Debug\Pregunta4.pdb
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\bin\Debug\Pregunta4.exe.config
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.exe
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.pdb
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\bin\Debug\Pregunta4.exe
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\bin\Debug\Pregunta4.pdb
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.Form1.resources
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.Properties.Resources.resources
+C:\xampp\htdocs\EXAMEN INF 324\Pregunta4\Pregunta4\Pregunta4\obj\Debug\Pregunta4.csproj.GenerateResource.Cache
